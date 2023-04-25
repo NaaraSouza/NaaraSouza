@@ -16,7 +16,7 @@ Tecnologias que uso no meu Dia a Dia:
 </div><br/>
 
 
-👩🏻‍💻Eu sou a Naara,formada em Técnico em Desenvolvimento de Sistemas e atualmente Graduanda em ADS
+👩🏻‍💻Eu sou a Naara,formada em Técnico em Desenvolvimento de Sistemas e atualmente sou Graduanda em ADS
 
 📘Estou estudando Linguagem de Programação C
 
