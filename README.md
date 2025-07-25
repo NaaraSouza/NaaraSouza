@@ -15,9 +15,11 @@ Tecnologias que uso no meu Dia a Dia:
 <img align="center" alt="windows" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
 </div><br/>
 
+👩🏻‍💻 Oiiie! Eu sou a Naara ;)
+Sou formada em Técnico em Desenvolvimento de Sistemas e graduada em Técnologo Análise e Desenvolvimento de Sistemas.
 
-👩🏻‍💻Eu sou a Naara,formada em Técnico em Desenvolvimento de Sistemas e atualmente sou Graduanda em ADS
+💡 Tenho conhecimento em linguagens como C, Java e Python — mas confesso que o meu coração bate mais forte pelo Front-End e UX/UI.
 
-📘Estou estudando Linguagem de Programação C
+🎨 Estou me aprofundando em HTML, CSS, JavaScript e explorando ferramentas como React, Figma e Git/GitHub. Gosto de transformar ideias em interfaces bonitas e funcionais!
 
-💻Amo Tecnologia
+💻 Amo tecnologia e tudo que envolve criatividade, design e inovação. Sempre buscando aprender algo novo e crescer um pouquinho todos os dias 💙
