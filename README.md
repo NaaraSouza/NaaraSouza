@@ -16,7 +16,8 @@ Tecnologias que uso no meu Dia a Dia:
 </div><br/>
 
 👩🏻‍💻 Oiiie! Eu sou a Naara ;)
-Sou formada em Técnico em Desenvolvimento de Sistemas e graduada em Técnologo Análise e Desenvolvimento de Sistemas.
+
+Sou formada em Técnico em Desenvolvimento de Sistemas e graduada em Técnologo em Análise e Desenvolvimento de Sistemas.
 
 💡 Tenho conhecimento em linguagens como C, Java e Python — mas confesso que o meu coração bate mais forte pelo Front-End e UX/UI.
 
