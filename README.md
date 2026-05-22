@@ -1,10 +1,11 @@
-# 👩🏻‍💻Naara Souza
+# 👩🏻‍💻 Naara Souza
 
 **`Desenvolvedora`**
 
 Sou profissional de TI com formação em Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas, com experiência em infraestrutura, suporte corporativo e sustentação de sistemas. Ao longo da minha trajetória, desenvolvi interesse especial por dados, automação e melhoria de processos, buscando sempre entender como a tecnologia pode gerar mais eficiência e apoiar decisões. Estou em constante aprendizado, evoluindo meus conhecimentos em TI.
 
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -23,15 +24,14 @@ Sou profissional de TI com formação em Análise e Desenvolvimento de Sistemas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
     align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -40,7 +40,6 @@ Sou profissional de TI com formação em Análise e Desenvolvimento de Sistemas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -49,8 +48,6 @@ Sou profissional de TI com formação em Análise e Desenvolvimento de Sistemas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="PHP" 
@@ -59,8 +56,6 @@ Sou profissional de TI com formação em Análise e Desenvolvimento de Sistemas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Java" 
@@ -87,17 +82,17 @@ Sou profissional de TI com formação em Análise e Desenvolvimento de Sistemas 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=NaaraSouza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naarasouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaaraSouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
+<br clear="left"/>
