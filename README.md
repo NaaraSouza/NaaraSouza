@@ -83,17 +83,4 @@ Sou profissional de TI com formação em Análise e Desenvolvimento de Sistemas 
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p align="center">
-  <img
-    height="180em"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=NaaraSouza&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400"
-  />
-  <img
-    height="180em"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaaraSouza&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"
-  />
-</p>
